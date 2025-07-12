@@ -1,0 +1,11 @@
+{
+    "particle.targetDevice": "e00fce68d503cd57cf4fd99e",
+    "particle.targetPlatform": "argon",
+    "particle.firmwareVersion": "6.2.1",
+    "files.associations": {
+        "filesystem": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xutility": "cpp"
+    }
+}
