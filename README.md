@@ -64,8 +64,8 @@ La lámpara integra **sensores ambientales, modelos de IA y conectividad IoT** p
 
 ## 🖥️ System Architecture / Arquitectura del Sistema
 
-![System Architecture](./docs/images/system_architecture.png)  
-*(Add your diagram here / Agrega tu diagrama aquí)*
+![image](https://github.com/user-attachments/assets/2b0b7e6c-460f-483b-9188-a4ef1d25fb72)
+
 
 ---
 
