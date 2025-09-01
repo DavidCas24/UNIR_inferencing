@@ -30,6 +30,7 @@ Este proyecto, desarrollado como parte del Trabajo de Fin de Máster en IoT de l
 
 ##  Repository Structure / Estructura del Repositorio
 
+```text
 .vscode/                       → IDE configuration files
 Hardware/                      → PCB designs, schematics, Gerber files
 Diseño Lampará - Lamp Design.zip → 3D model files of the lamp
@@ -41,6 +42,7 @@ firmware.bin                   → Compiled firmware binary
 memory-use.log                 → Memory usage log
 project.properties             → Project properties
 README.md                      → This file
+```
 
 ---
 
