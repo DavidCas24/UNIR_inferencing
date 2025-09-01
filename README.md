@@ -30,17 +30,7 @@ Este proyecto, desarrollado como parte del Trabajo de Fin de Máster en IoT de l
 
 ##  Repository Structure / Estructura del Repositorio
 
-.vscode/ → IDE configuration files.
-Hardware/ → PCB designs, schematics, Gerber files.
-Diseño Lampará - Lamp Design.zip → 3D model files of the lamp.
-examples/static_buffer/ → Code examples (static_buffer).
-lib/ → External libraries.
-src/ → Source code.
-target/6.2.1/argon/ → Compiled output for Argon.
-firmware.bin → Compiled firmware binary.
-memory-use.log → Memory usage log.
-project.properties → Project properties.
-README.md → This file.
+<pre> ```text .vscode/ → IDE configuration files Hardware/ → PCB designs, schematics, Gerber files Diseño Lampará - Lamp Design.zip → 3D model files of the lamp examples/static_buffer/ → Code examples (static_buffer) lib/ → External libraries src/ → Source code target/6.2.1/argon/ → Compiled output for Argon firmware.bin → Compiled firmware binary memory-use.log → Memory usage log project.properties → Project properties README.md → This file ``` </pre>
 
 
 ---
